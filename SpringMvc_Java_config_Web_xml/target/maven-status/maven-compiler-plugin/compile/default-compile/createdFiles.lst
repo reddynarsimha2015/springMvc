@@ -1,0 +1,3 @@
+com\st\spring\mvc\controller\HelloWorldController.class
+com\st\spring\mvc\config\ApplicationInitializer.class
+com\st\spring\mvc\config\MvcConfig.class

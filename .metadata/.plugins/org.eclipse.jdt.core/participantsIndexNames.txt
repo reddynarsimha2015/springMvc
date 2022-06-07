@@ -1,0 +1,21 @@
+INDEX VERSION 1.131
+D:\workSpace\SpringMvc\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2690105776.index
+\spring_mvc_xml_config\src\main\java
+D:\workSpace\SpringMvc\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\938498853.index
+\SpringMvc_Java_config_no_xml_config\src\main\java
+D:\workSpace\SpringMvc\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3807700191.index
+\SpringmvcConfig\src\main\java
+D:\workSpace\SpringMvc\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1290239757.index
+\SpringMvc_Java_config_Web_xml\src\main\java
+D:\workSpace\SpringMvc\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\218903970.index
+\SpringMvc_Java_config_no_xml\src\main\java
+D:\workSpace\SpringMvc\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\744839805.index
+\SpringMvc_Java_config_no_xml\src\main\java
+D:\workSpace\SpringMvc\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4128827688.index
+\SpringMvc_Java_config_no_xml_config\src\main\java
+D:\workSpace\SpringMvc\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\70302877.index
+\SpringmvcConfig\src\main\java
+D:\workSpace\SpringMvc\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3454407062.index
+\springMvcXmlConfig\src\main\java
+D:\workSpace\SpringMvc\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\218072692.index
+\SpringMvc_Java_config_Web_xml\src\main\java
